@@ -1,4 +1,4 @@
-##Description
+## Description
 Simple Todo list
 
-https://nbrouka.github.io/jscourses_task4/
+https://nbrouka.github.io/js-todo-list/
